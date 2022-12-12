@@ -41,6 +41,7 @@
     margin: 0.1rem;
 
     position: relative;
+    top: 5rem;
 }
 .qualification > h2 {
     font-size: 1.2rem;
@@ -50,4 +51,14 @@
 .qualification > p {
     line-height: 2rem;
     
+}
+.professional {
+    padding: 1rem;
+    margin: 0.1rem;
+
+    position: relative;
+
+}
+.professional > span {
+    background-color: var(--color-green-2);
 }
