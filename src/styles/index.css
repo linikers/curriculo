@@ -1,64 +1,54 @@
-
-
 .logo {
-    margin: 1rem;
+  margin: 1rem;
 }
 .experience {
-    background-color: var(--color-green-0);
-    
-    width: 100vw;
-    height: 100vh;
-    padding: 1rem;
+  background-color: var(--color-green-0);
 
-    color: var(--color-invert-1);
-    border-radius: 8px;
-    margin: 0.1rem;
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
 
-    position:relative;
-    top: 11rem;
-    
+  color: var(--color-invert-1);
+  border-radius: 8px;
 }
 .experience > h2 {
-    padding: 0.5rem;
-    font-weight: 900;
-    width: 2.2rem;
-    margin: 1rem;
+  padding: 0.5rem;
+  font-weight: 900;
+  width: 2.2rem;
+  margin: 1rem;
 
-    background-color: var(--color-base-1);
-    border-radius: 5rem;
+  background-color: var(--color-base-1);
+  border-radius: 5rem;
 }
 .xp > li {
-    padding: 1rem;
-    
+  padding: 1rem;
 }
 .qualification {
-    background-color: var(--color-base-1);
-    color: var(--color-green-2);
-    
-    border-radius: 8px;
-    
-    padding: 1rem;
-    margin: 0.1rem;
+  background-color: var(--color-base-1);
+  color: var(--color-green-2);
 
-    position: relative;
-    top: 5rem;
+  border-radius: 8px;
+
+  padding: 1rem;
+  margin: 0.1rem;
+
+  position: relative;
+  top: 5rem;
 }
 .qualification > h2 {
-    font-size: 1.2rem;
-    font-weight: 600;
-    padding: 0.6rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 0.6rem;
 }
 .qualification > p {
-    line-height: 2rem;
-    
+  line-height: 2rem;
 }
 .professional {
-    padding: 1rem;
-    margin: 0.1rem;
+  padding: 1rem;
+  margin: 0.1rem;
 
-    position: relative;
-
+  position: relative;
 }
 .professional > span {
-    background-color: var(--color-green-2);
+  background-color: var(--color-green-2);
 }
