@@ -2,8 +2,11 @@
   width: 180px;
   height: 184px;
 }
-nav {
+
+nav > a {
+  text-decoration: none;
   color: var(--color-green-0);
+  margin: 0.4rem;
 }
 .experience {
   background-color: var(--color-green-0);
@@ -61,6 +64,18 @@ nav {
   justify-content: center;
 
   padding: 1rem;
+
+  color: var(--color-white-1);
 }
-.professional > span {
+.professional > h2 {
+  margin-bottom: 1.2rem;
+}
+.box__professional {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+.box__professional > span {
+  font-size: 1rem;
+  font-weight: 600;
 }
